@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "808714687344",
+    "project_id": "onlineexamapp-6942b",
+    "storage_bucket": "onlineexamapp-6942b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808714687344:android:78dbfe3eecf1dbcae9b5b5",
+        "android_client_info": {
+          "package_name": "com.example.onlineexamapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808714687344-m2h0bm5scfocj7mqfr1thbklaqdr2n91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlineexamapp",
+            "certificate_hash": "6c205bba09b56342f59fd8ac87d4c381a19d34ea"
+          }
+        },
+        {
+          "client_id": "808714687344-3j667lpvvio9o55ie7165uebfq0tkmql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK4e7wiLL9vCCSRt1UKtIke5_1QZIQC9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808714687344-3j667lpvvio9o55ie7165uebfq0tkmql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
